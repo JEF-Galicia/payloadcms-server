@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "payload": "^2.1.1"
+  },
+  "name": "payloadcms-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "devDependencies": {
+    "@types/node": "^20.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldan Creo <aldan.creo@jef.gal>",
+  "repository": {
+    "url": "https://github.com/JEF-Galicia/payloadcms-server"
+  }
+}
